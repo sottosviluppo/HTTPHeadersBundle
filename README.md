@@ -7,6 +7,8 @@ Custom HTTP Headers for Symfony2
 Installing [HttpHeadersBundle](https://github.com/mmoreram/http-headers-bundle)
 -----
 
+
+
 You have to add require line into you `composer.json` file
 
     "require": {
