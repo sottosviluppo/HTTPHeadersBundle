@@ -1,9 +1,9 @@
 {
-    "name": "mmoreram/http-headers-bundle",
+    "name": "sottosviluppo/http-headers-bundle",
     "type": "symfony-bundle",
     "description": "Custom Response HTTP Headers definition for Symfony",
     "keywords": ["headers", "symfony"],
-    "homepage":  "https://github.com/mmoreram/http-headers-bundle",
+    "homepage":  "https://github.com/sottosviluppo/HTTPHeadersBundle",
     "license": "MIT",
     "authors": [
         {
